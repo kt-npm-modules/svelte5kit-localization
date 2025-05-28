@@ -1,5 +1,51 @@
 # Changelog
 
+## 0.2.0
+
+### Minor Changes
+
+- 566bc0a: Deprecating the package in favor of paraglide by inlang
+
+### Patch Changes
+
+- d7de824: dependabot: directory '/', update @eslint/compat
+- 079ead2: dependabot: directory '/', update @eslint/js
+- 079ead2: dependabot: directory '/', update eslint
+- 079ead2: dependabot: directory '/', update svelte-check
+- 0980996: dependabot: directory '/', update @changesets/cli
+- 0980996: dependabot: directory '/', update typescript-eslint
+- 0980996: dependabot: directory '/', update vite
+- 243c58c: dependabot: directory '/', update cypress
+- 4b91032: dependabot: directory '/', update eslint-config-prettier
+- 4b91032: dependabot: directory '/', update globals
+- 59fa271: dependabot: directory '/', update eslint-config-prettier
+- 64e2824: dependabot: directory '/', update @changesets/cli
+- 64e2824: dependabot: directory '/', update @sveltejs/adapter-auto
+- 64e2824: dependabot: directory '/', update @sveltejs/kit
+- 64e2824: dependabot: directory '/', update eslint-plugin-svelte
+- 64e2824: dependabot: directory '/', update svelte
+- 64e2824: dependabot: directory '/', update typescript-eslint
+- 6eb1a8e: dependabot: directory '/', update prettier-plugin-svelte
+- 6eb1a8e: dependabot: directory '/', update svelte-check
+- 6eb1a8e: dependabot: directory '/', update svelte
+- b1346be: dependabot: directory '/', update eslint-plugin-svelte
+- b1346be: dependabot: directory '/', update svelte-check
+- 845fa8a: dependabot: directory '/', update @eslint/js
+- 845fa8a: dependabot: directory '/', update @sveltejs/kit
+- 845fa8a: dependabot: directory '/', update eslint-plugin-svelte
+- 845fa8a: dependabot: directory '/', update eslint
+- 845fa8a: dependabot: directory '/', update svelte
+- 3d4a03a: dependabot: directory '/', update dompurify
+- 3d4a03a: dependabot: directory '/', update svelte
+- 0a22c03: dependabot: directory '/', update eslint-plugin-svelte
+- 0a22c03: dependabot: directory '/', update svelte
+- 0b95e87: dependabot: directory '/', update cypress
+- 0b95e87: dependabot: directory '/', update eslint-plugin-svelte
+- 0b95e87: dependabot: directory '/', update globals
+- 0b95e87: dependabot: directory '/', update svelte
+- 85dc48d: dependabot: directory '/', update svelte
+- 85dc48d: dependabot: directory '/', update typescript-eslint
+
 ## 0.1.19
 
 ### Patch Changes

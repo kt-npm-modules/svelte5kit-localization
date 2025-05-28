@@ -1,7 +1,7 @@
 {
 	"name": "@ktarmyshov/svelte5kit-localization",
 	"description": "Localization for SvelteKit with Svelte 5 reactivity",
-	"version": "0.1.19",
+	"version": "0.2.0",
 	"license": "MIT",
 	"author": {
 		"name": "Konstantin Tarmyshov",
